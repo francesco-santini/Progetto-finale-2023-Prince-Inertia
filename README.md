@@ -1,2 +1,10 @@
-# Progetto-finale-2023-Prince-Inertia
-Template progetto 2024 Programmazione Procedurale
+# Progetto-finale-2024-Prince-Inertia
+Progetto finale Programmazione Procedurale UniPG Informatica
+
+## Nome: 
+
+## Cognome: 
+
+## Matricola:
+
+## Commenti/modifiche al progetto:
